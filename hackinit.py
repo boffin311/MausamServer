@@ -1,4 +1,5 @@
 import pandas as pd
+import sys;
 import numpy as np 
 import math
 
@@ -27,9 +28,10 @@ def knn(mntmp,mxtmp,rain):
         distance.append([data.Crop[i],dis])
     return distance
 
-sl = knn(100,132,2)
+sl = knn(sys.argv[2],sys.argv[1],2)
 sl = Sort(sl)
 print(sl)
+# print("Hello bhai kesa hai")
 
 '''
 for i in range(5):

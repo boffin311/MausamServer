@@ -4,5 +4,5 @@ import sys
 print("Output from Python")
 name="himasnhu"
 lastName="Nautiyal"
-print("First name: " + name)
-print("Last name: " + lastName)
+print("First name: " + sys.argv[1])
+print("Last name: " + sys.argv[2])
