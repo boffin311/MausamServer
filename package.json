@@ -1,0 +1,19 @@
+{
+  "name": "pythonserver",
+  "version": "1.0.0",
+  "description": "the python server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himanshu nautiyal",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.17.1",
+    "npm": "^6.11.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}

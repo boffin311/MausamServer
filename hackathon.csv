@@ -1,0 +1,25 @@
+,Crop,Rainfall,Soil,Producers,Min_temp,Max_temp,Rainfall1,Rainfall2
+0,Rice,75.0, Heavy-clayey to-clayey-loam    ," China, India, Indonesia, Bangladesh, Thailand, Japan, Myanmar, Vietnam, Malaysia, Pakistan, Sri Lanka",15,27,100,50
+1,Wheat,50.0, well-drained-light clay to heavy clay  ," China, India, USA, Russia, Australia, Canada, Pakistan, France, and Turkey.",12,25,25,75
+2,Maize,95.0, Deep-heavy clay to light sandy loam ," USA, China, Brazil, Mexico, Russia, Romania, India, and South Africa.",15,27,65,125
+3,Millets,50.0, Sandy-loam to clayey loam      ," China, USA, India, Nigeria, Ukraine, Thailand, Russia, and Turkey.",20,35,25,75
+4,Bajra,42.5, Sandy loam to loam       ," In India: Rajasthan, Maharashtra, Gujarat, Uttar Pradesh, Haryana, Karnataka, Tamil Nadu, and Andhra Pradesh.",25,35,25,60
+5,Pulses,42.5," Sandy-loam Producers: In India: Madhya Pradesh, Rajasthan, Uttar Pradesh, Maharashtra, Punjab, Haryana, Andhra Pradesh, Karnataka, Tamil Nadu, West Bengal"," Mediterranean countries of Europe, Egypt, Greece, Turkey, China, India: (Madhya Pradesh, Uttar Pradesh, Bihar, and West Bengal",20,27,25,60
+6,Lentil,37.5, Loamy to clayey loam     ," In India: Rajasthan, Uttar Pradesh, Madhya Pradesh, Punjab, Haryana, Bihar, West Bengal, Maharashtra, Gujarat, Uttarakhand.",15,25,25,50
+7,Oilseeds,40.0, loam to clayey loam        ," India, China, USA, Sudan, Senegal, Indonesia, Argentina, Myanmar.",15,30,30,50
+8,Groundnut,62.5," well-drained-sandy loams, red and black cotton   "," Brazil, India, China, Pakistan, Thailand, Mexico, Cuba, Colombia.",20,30,50,75
+9,Sugarcane,125.0," Well-drained alluvium, black, red and brown regur soil "," China, USA, India, Brazil, Pakistan, Uzbekistan, Egypt, Turkey.",20,35,85,165
+10,Sugar beet,37.5," Well-drained-loamy soil   Producers: France, USA, Germany, Russia, China, Ukraine, Poland, Turkey, Leading exporter in the world: France"," Ivory-Coast, Ghana, Indonesia, Brazil, Cameroon, Nigeria, Ecuador, Costa-Rica.",10,25,25,50
+11,Cotton,85.0," well-drained loam, and regur (black-earth) "," Thailand, Indonesia, Malaysia, India, China, Sri-Lanka, Liberia, Brazil.",18,27,60,110
+12,Tea,175.0," well-drained, light loamy Soil   Producers: India, China, Sri-Lanka, Kenya, Indonesia, Bangladesh, Turkey."," Bangladesh, India, China, Thailand, Myanmar, Brazil and Nepal.",15,35,100,250
+13,Coffee,190.0," well-drained alluvial Soil Producers: Brazil, Colombia, Indonesia, Vietnam, Ivory-Coast, Mexico, Ghana, Cameroon, India."," In India: Himachal Pradesh, Uttarakhand and the Jammu Division of J & K",15,28,125,255
+14,Cocoa,175.0, well-drained alluvium    ," In India: Kerala (55%), Tamil Nadu, Andhra Pradesh, Karnataka, Goa, Gujarat and Maharashtra.",18,35,100,250
+15,Rubber,200.0, rich-well-drained alluvial Soil  ," India: Andhra Pradesh, Karnataka, Assam, Gujarat, Goa, Kerala, Maharashtra, Odisha, Tamil Nadu, Tripura and West Bengal",27,27,150,250
+16,Jute,200.0, Well drained alluvial Soil," In India: Kerala, Tamil Nadu, Karnataka, Andaman and Nicobar",25,35,150,250
+17,Flax,17.5, Rich loam or clayey loam," In India: Kerala, Karnataka, Tamil Nadu, Andaman and Nicobar Islands and Pondicherry",10,20,15,20
+18,Coconut,175.0," lateritic red, sandy alluvial sandy      "," In India: Kerala (60%), Karnataka (30%), and Tamil Nadu (10 %).",27,27,100,250
+19,Oil-palm,325.0, Deep-loamy and alluvial soil    ," In India: Andhra Pradesh, Karnataka, Kerala, Odisha, Tamil Nadu, and West Bengal.",27,33,250,400
+20,Clove,225.0, Red alluvial Soil    ,,25,35,200,250
+21,Black Pepper,250.0," rich in hums, red-loam to sandy loam, and red lateritic sandy loam",,15,40,200,300
+22,Cardamom,275.0, well-drained lateritic      ,,10,35,150,400
+23,Turmeric,200.0, well-drained clayey loam or red loamy soil  ,,20,30,150,250
